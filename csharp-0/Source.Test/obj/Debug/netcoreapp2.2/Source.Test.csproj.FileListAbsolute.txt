@@ -1,0 +1,17 @@
+c:\Users\FAMILIA EM DEUS\codenation\csharp-0\Source.Test\bin\Debug\netcoreapp2.2\JUnit.TestLogger.dll
+c:\Users\FAMILIA EM DEUS\codenation\csharp-0\Source.Test\bin\Debug\netcoreapp2.2\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+c:\Users\FAMILIA EM DEUS\codenation\csharp-0\Source.Test\bin\Debug\netcoreapp2.2\xunit.runner.reporters.netcoreapp10.dll
+c:\Users\FAMILIA EM DEUS\codenation\csharp-0\Source.Test\bin\Debug\netcoreapp2.2\xunit.runner.utility.netcoreapp10.dll
+c:\Users\FAMILIA EM DEUS\codenation\csharp-0\Source.Test\bin\Debug\netcoreapp2.2\Source.Test.deps.json
+c:\Users\FAMILIA EM DEUS\codenation\csharp-0\Source.Test\bin\Debug\netcoreapp2.2\Source.Test.runtimeconfig.json
+c:\Users\FAMILIA EM DEUS\codenation\csharp-0\Source.Test\bin\Debug\netcoreapp2.2\Source.Test.runtimeconfig.dev.json
+c:\Users\FAMILIA EM DEUS\codenation\csharp-0\Source.Test\bin\Debug\netcoreapp2.2\Source.Test.dll
+c:\Users\FAMILIA EM DEUS\codenation\csharp-0\Source.Test\bin\Debug\netcoreapp2.2\Source.Test.pdb
+c:\Users\FAMILIA EM DEUS\codenation\csharp-0\Source.Test\bin\Debug\netcoreapp2.2\Source.dll
+c:\Users\FAMILIA EM DEUS\codenation\csharp-0\Source.Test\bin\Debug\netcoreapp2.2\Source.pdb
+c:\Users\FAMILIA EM DEUS\codenation\csharp-0\Source.Test\obj\Debug\netcoreapp2.2\Source.Test.csprojAssemblyReference.cache
+c:\Users\FAMILIA EM DEUS\codenation\csharp-0\Source.Test\obj\Debug\netcoreapp2.2\Source.Test.AssemblyInfoInputs.cache
+c:\Users\FAMILIA EM DEUS\codenation\csharp-0\Source.Test\obj\Debug\netcoreapp2.2\Source.Test.AssemblyInfo.cs
+c:\Users\FAMILIA EM DEUS\codenation\csharp-0\Source.Test\obj\Debug\netcoreapp2.2\Source.Test.csproj.CopyComplete
+c:\Users\FAMILIA EM DEUS\codenation\csharp-0\Source.Test\obj\Debug\netcoreapp2.2\Source.Test.dll
+c:\Users\FAMILIA EM DEUS\codenation\csharp-0\Source.Test\obj\Debug\netcoreapp2.2\Source.Test.pdb
