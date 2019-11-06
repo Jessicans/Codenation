@@ -1,0 +1,8 @@
+C:\Users\FAMILIA EM DEUS\codenation\csharp-1\Source\bin\Debug\netstandard2.0\Source.deps.json
+C:\Users\FAMILIA EM DEUS\codenation\csharp-1\Source\bin\Debug\netstandard2.0\Source.dll
+C:\Users\FAMILIA EM DEUS\codenation\csharp-1\Source\bin\Debug\netstandard2.0\Source.pdb
+C:\Users\FAMILIA EM DEUS\codenation\csharp-1\Source\obj\Debug\netstandard2.0\Source.csprojAssemblyReference.cache
+C:\Users\FAMILIA EM DEUS\codenation\csharp-1\Source\obj\Debug\netstandard2.0\Source.AssemblyInfoInputs.cache
+C:\Users\FAMILIA EM DEUS\codenation\csharp-1\Source\obj\Debug\netstandard2.0\Source.AssemblyInfo.cs
+C:\Users\FAMILIA EM DEUS\codenation\csharp-1\Source\obj\Debug\netstandard2.0\Source.dll
+C:\Users\FAMILIA EM DEUS\codenation\csharp-1\Source\obj\Debug\netstandard2.0\Source.pdb
